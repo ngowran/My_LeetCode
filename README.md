@@ -3,6 +3,7 @@
 | Number | Problem name  | Level | Language | My Solution |
 | ------------- | ------------- | ------------- | ------------- |------------- |
 | 1 | [Two sum](https://leetcode.com/problems/two-sum) | Easy | python3 | [Click here](https://github.com/ngowran/My_LeetCode/blob/main/Easy/two_sum.py) |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | python3 | [Click here](https://github.com/ngowran/My_LeetCode/blob/main/Easy/palindrome-number.py) |
 |26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | python3 | [Click here](https://github.com/ngowran/My_LeetCode/blob/main/Easy/remove_duplicates_from_sorted_array.py) |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | Easy | python3 | [Click here](https://github.com/ngowran/My_LeetCode/blob/main/Easy/implement_strStr().py) |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | python3 | [Click here](https://github.com/ngowran/My_LeetCode/blob/main/Hard/first_missing_positive.py) | 
